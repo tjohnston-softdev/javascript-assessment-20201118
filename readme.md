@@ -21,3 +21,4 @@ The code for individual answers are found in the [answers](./answers/readme.md) 
 ## Disclaimer
 
 This submission is licensed under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). The original assessment did not come with a license so I chose to use this as default. I honestly *do not* care what you do with this. I am only uploading it here for archive purposes. Still, I had the basic courtesy not to disclose the name of the company that gave the assessment for confidentiality reasons.
+
