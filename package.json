@@ -13,8 +13,8 @@
     "test:watch": "jest --watchAll"
   },
   "dependencies": {
-    "chai": "^4.3.7",
-    "jest": "^29.6.2",
+    "chai": "^4.3.10",
+    "jest": "^29.7.0",
     "mocha": "^10.2.0"
   }
 }
